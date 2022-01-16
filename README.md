@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adnan-math
+- 👋 Hi, I’m Muhammad Adnan Anwar
 - 👀 I’m interested in Python, Data Science, Applied Mathemarics
 - 🌱 I’m currently learning Data Science and Data Analysis
 - 💞️ I’m looking to collaborate on Data science projects
